@@ -34,3 +34,5 @@ return {
 }
 
 end
+
+---@shadowking_CH
